@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :leaf clover
+### Boas vindas ao meu perfil 🍀
 
 Meu nome é Marcos
 
@@ -6,7 +6,7 @@ Meu nome é Marcos
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 📫
 
 marcos.alves.palhano@escola.pr.gov.br
 
